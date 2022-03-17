@@ -1,4 +1,4 @@
-# PAnálise, construção e visualização de dados
+# Análise, construção e visualização de dados
 
 IDP - Brasília
 

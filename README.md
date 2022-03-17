@@ -1,4 +1,4 @@
-# Primeira Aula de Análise, construção e visualização de dados
+# PAnálise, construção e visualização de dados
 
 IDP - Brasília
 

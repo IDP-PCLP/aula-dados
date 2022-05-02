@@ -1,6 +1,7 @@
 # Análise, construção e visualização de dados
 
 IDP - Brasília
+## Presença Aula de Reforço 02/05: https://forms.gle/XpLKwFoHri7igiU59
 
 Link para o formulário Google sobre filmes: https://forms.gle/qQVGL9sk73kkJU4Y9
 
